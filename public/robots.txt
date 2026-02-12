@@ -1,5 +1,5 @@
-# Trasvilox Official - robots.txt
-# https://trasvilox.eu
+# Wexvorim Official - robots.txt
+# https://Wexvorim.eu
 
 User-agent: Googlebot
 Allow: /
@@ -47,7 +47,7 @@ Allow: /
 Crawl-delay: 2
 
 # Sitemaps
-Sitemap: https://trasvilox.eu/sitemap.xml
+Sitemap: https://Wexvorim.eu/sitemap.xml
 
 # Disallow admin/private areas (if any)
 Disallow: /api/
