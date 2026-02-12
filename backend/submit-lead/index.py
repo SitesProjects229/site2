@@ -173,7 +173,7 @@ def handler(event: Dict[str, Any], context: Any) -> Dict[str, Any]:
 📱 Телефон: +`{phone_formatted}`
 🌍 Страна: {country_name} ({country_code})
 🌐 IP: `{ip_address}`
-🌐 Platform: test1
+🌐 Platform: test11"""
     
     if is_spam and spam_reason:
         telegram_message += f"\n\n🚨 Причина спама: {spam_reason}"
